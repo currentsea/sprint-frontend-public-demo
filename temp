@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ######################
 # Project Specific
 ######################
@@ -133,17 +132,3 @@ Desktop.ini
 # ESLint
 ######################
 .eslintcache
-=======
-*.class
-
-# Mobile Tools for Java (J2ME)
-.mtj.tmp/
-
-# Package Files #
-*.jar
-*.war
-*.ear
-
-# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
-hs_err_pid*
->>>>>>> 3a9689a47d631aea1d1ff1a6aa2403f88bb2787e
